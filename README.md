@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source](https://github.com/youssra-ghninou/product-preview-card-component-main)
-- Live Site URL: [Demo](https://youssra-ghninou.github.io/product-preview-card-component-main/)
+- Solution URL: [Source](https://github.com/youssra-ghninou/huddle-landing-page-with-alternating-feature-blocks-master)
+- Live Site URL: [Demo](https://youssra-ghninou.github.io/huddle-landing-page-with-alternating-feature-blocks-master/)
 
 ## My process
 
